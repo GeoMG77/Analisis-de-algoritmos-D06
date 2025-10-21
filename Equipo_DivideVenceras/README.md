@@ -12,7 +12,6 @@ Este proyecto requiere Python 3 y la biblioteca matplotlib.
 
 Puedes instalar la única dependencia necesaria usando pip:
 
-Bash
 
 pip install matplotlib
 Ejecución
@@ -23,7 +22,6 @@ Importante: Dado que los nombres de archivo contienen espacios, es fundamental q
 1. Versión con Programación Dinámica (Rápida)
 Para ejecutar la versión optimizada (recomendada para entradas largas):
 
-Bash
 
 python "DIVIDE Y VENCERAS PD.py"
 2. Versión con Divide y Vencerás (Lenta)
@@ -31,6 +29,5 @@ Para ejecutar la versión recursiva pura.
 
 Advertencia: Esta versión se volverá extremadamente lenta (puede congelar la aplicación) con cadenas de entrada de más de 25-30 dígitos.
 
-Bash
 
 python "DIVIDE Y VENCERAS - sin PD.py"
